@@ -1,0 +1,29 @@
+[
+    {
+        "Date": "2025-10-18 18:53:52",
+        "Source acc num": "A101",
+        "Destination acc num": "A102",
+        "Amount tranfer": 100.0,
+        "Source balance": 3922.0,
+        "Destination balance": 1100.0,
+        "User": "User2"
+    },
+    {
+        "Date": "2025-10-18 18:53:52",
+        "Source acc num": "A106",
+        "Destination acc num": "A102",
+        "Amount tranfer": 900.0,
+        "Source balance": 7102.0,
+        "Destination balance": 2000.0,
+        "User": "User3"
+    },
+    {
+        "Date": "2025-10-18 18:53:52",
+        "Source acc num": "A102",
+        "Destination acc num": "A106",
+        "Amount tranfer": 250.0,
+        "Source balance": 1750.0,
+        "Destination balance": 7352.0,
+        "User": "User4"
+    }
+]
